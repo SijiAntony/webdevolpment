@@ -1,0 +1,18 @@
+.home{
+    background-image: url("https://4.imimg.com/data4/PY/AH/MY-4613803/flower-wallpaper-500x500.jpg");
+    height: 600px;
+    text-align: center;
+    padding-top: 50px;
+}
+.home h1{
+    color:darkslateblue;
+}
+.home p {
+    color:darkred;
+    margin-top: 50px;
+    margin-bottom:50px ;
+    margin-left: 50px;
+    margin-right:50px ;
+    padding:5px ;
+
+}
